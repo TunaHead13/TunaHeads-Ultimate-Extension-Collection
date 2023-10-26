@@ -2,7 +2,6 @@
     {
         "ExtensionName": "VideosAndAudios",
         "Owner": "tunahead_13",
-        "Tags": ["Unsandboxed","Utility"],
-        "Thumbnail": ""
+        "Tags": ["Unsandboxed","Utility"], 
     },
 ]
